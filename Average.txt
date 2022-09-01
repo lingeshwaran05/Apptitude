@@ -1,0 +1,14 @@
+Average speed = Total Distance / Total Time
+
+
+the average speed druing the whole journey is		2xy	/x + y	kmph.
+
+
+Average = sum of all the n numbers/n
+
+
+Weighted Average = (n1 * x) + (n2 * y)/n1+n2
+
+
+
+
