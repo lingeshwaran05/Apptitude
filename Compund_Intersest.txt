@@ -1,0 +1,14 @@
+C.I = P{[1+r/100)]^n - 1}
+
+Annually : A = P(1+r/100)^n
+
+Half-yearly : A = P(1+r/200)^2n
+
+Quarterly : A = P(1+r/400)^4n
+
+Amount =P[1+r/100]^n
+CI=Amount-Principal
+
+
+if year is feaction y*x/z years
+then, Amount=P[1+r/100]^y +P[1+r*x/z/100]
