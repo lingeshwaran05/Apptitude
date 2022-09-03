@@ -1,0 +1,2 @@
+SI=PNR/100
+AMount=P+I
