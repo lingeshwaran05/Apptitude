@@ -1,0 +1,10 @@
+2------------------unit digit even or 0
+3------------------sum of its digits /3
+4------------------last 2 digits are 0 or divisible /4
+5------------------unit digit 5 or 0
+6------------------divisible by 2 and 3 both
+8------------------last 3 digits are 0 or divisible /8
+9------------------sum of its digits is /9
+10-----------------unit digit is 0
+11-----------------difference between sum of its digits in odd and even places is multiple of 11
+12-----------------/ 3 and 4 both
