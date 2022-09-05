@@ -1,0 +1,32 @@
+Speed, Time and Distance:
+
+Speed =		Distance		,	Time =		Distance		,	Distance = (Speed x Time).
+Time	Speed
+km/hr to m/sec conversion:
+
+x km/hr =		x x	5/18	m/sec.
+
+m/sec to km/hr conversion:
+
+x m/sec =		x x	18/5		km/hr.
+
+If the ratio of the speeds of A and B is a : b, then the ratio of
+
+the times taken by them to cover the same distance is	1	:	1	or b : a.
+
+Suppose a man covers a certain distance at x km/hr and an equal distance at y km/hr. Then,
+
+the average speed during the whole journey is		2xy/(x + y)		km/hr.
+
+If two trains of length a metres and b metres are moving in opposite directions at u m/s and v m/s, then:
+
+The time taken by the trains to cross each other =	(a + b)/(u + v)	sec.
+
+If two trains of length a metres and b metres are moving in the same direction at u m/s and v m/s, then:
+
+The time taken by the faster train to cross the slower train =	(a + b)/(u - v)	sec.
+
+
+if two trains (or bodies) start at the same time from points A and B towards each other and after crossing they take a and b sec in reaching B and A respectively, then:
+
+(A's speed) : (B's speed) = (b^1/2 : a^1/2)
